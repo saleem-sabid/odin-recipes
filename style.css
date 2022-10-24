@@ -1,0 +1,13 @@
+* {
+    border: 2px solid red;
+    /* padding: 30px;
+    margin: 15px; */
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+a:active {
+    color: black;
+}
